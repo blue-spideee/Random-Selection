@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Audiowide|Sofia|Trirong');
+
+* {
+    background-color: rgb(49, 47, 51);
+    text-align: center;
+    font-family: muli;
+    color: white;
+
+}
+.overview {
+    margin-top: 100px;
+    background-color: rgb(49, 47, 51);
+    text-align: center;
+    font-family: muli;
+    color: white;
+}
+
+
+.cat {
+    font-size: 20px;
+    margin-bottom: 7px;
+}
+
+.head{
+    margin-bottom: 60px;
+    font-family: Audiowide, sans-serif;
+}
+
+.getRandCharacter {
+    margin-top: 50px;
+    color: black;
+    font-size: 20px;
+    background-color: white;
+    height: 50px;
+    width:180px;
+    border:0px;
+}
